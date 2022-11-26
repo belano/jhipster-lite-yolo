@@ -18,5 +18,15 @@
       "indentSize" : 2,
       "packageName" : "tech.yolo"
     }
+  }, {
+    "module" : "java-base",
+    "date" : "2022-11-26T19:26:34.753959947Z",
+    "properties" : {
+      "projectName" : "Yolo",
+      "baseName" : "yolo",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "packageName" : "tech.yolo"
+    }
   } ]
 }
