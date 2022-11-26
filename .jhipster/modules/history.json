@@ -8,5 +8,15 @@
       "endOfLine" : "lf",
       "indentSize" : 2
     }
+  }, {
+    "module" : "maven-java",
+    "date" : "2022-11-26T19:26:34.618227072Z",
+    "properties" : {
+      "projectName" : "Yolo",
+      "baseName" : "yolo",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "packageName" : "tech.yolo"
+    }
   } ]
 }
