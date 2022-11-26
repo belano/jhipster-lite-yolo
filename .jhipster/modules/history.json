@@ -1,0 +1,12 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2022-11-26T19:18:52.786828161Z",
+    "properties" : {
+      "projectName" : "Yolo",
+      "baseName" : "yolo",
+      "endOfLine" : "lf",
+      "indentSize" : 2
+    }
+  } ]
+}
