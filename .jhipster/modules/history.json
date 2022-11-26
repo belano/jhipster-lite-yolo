@@ -28,5 +28,15 @@
       "indentSize" : 2,
       "packageName" : "tech.yolo"
     }
+  }, {
+    "module" : "spring-boot",
+    "date" : "2022-11-26T19:26:34.981225203Z",
+    "properties" : {
+      "projectName" : "Yolo",
+      "baseName" : "yolo",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "packageName" : "tech.yolo"
+    }
   } ]
 }
