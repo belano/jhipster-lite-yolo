@@ -38,5 +38,15 @@
       "indentSize" : 2,
       "packageName" : "tech.yolo"
     }
+  }, {
+    "module" : "prettier",
+    "date" : "2022-11-27T17:04:45.186997810Z",
+    "properties" : {
+      "packageName" : "tech.yolo",
+      "projectName" : "Yolo",
+      "indentSize" : 2,
+      "baseName" : "yolo",
+      "endOfLine" : "lf"
+    }
   } ]
 }
