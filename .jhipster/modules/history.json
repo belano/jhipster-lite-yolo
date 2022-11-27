@@ -58,5 +58,15 @@
       "baseName" : "yolo",
       "endOfLine" : "lf"
     }
+  }, {
+    "module" : "application-service-hexagonal-architecture-documentation",
+    "date" : "2022-11-27T17:11:47.990717908Z",
+    "properties" : {
+      "packageName" : "tech.yolo",
+      "projectName" : "Yolo",
+      "indentSize" : 2,
+      "baseName" : "yolo",
+      "endOfLine" : "lf"
+    }
   } ]
 }
