@@ -79,5 +79,16 @@
       "endOfLine" : "lf",
       "serverPort" : 8080
     }
+  }, {
+    "module" : "spring-boot-cucumber",
+    "date" : "2022-11-28T18:36:03.454577385Z",
+    "properties" : {
+      "packageName" : "tech.yolo",
+      "projectName" : "Yolo",
+      "indentSize" : 2,
+      "baseName" : "yolo",
+      "endOfLine" : "lf",
+      "serverPort" : 8080
+    }
   } ]
 }

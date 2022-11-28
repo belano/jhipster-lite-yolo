@@ -36,5 +36,6 @@ npm install
 - [Logs spy](documentation/logs-spy.md)
 - [Hexagonal architecture](documentation/hexagonal-architecture.md)
 - [CORS configuration](documentation/cors-configuration.md)
+- [Cucumber](documentation/cucumber.md)
 
 <!-- jhipster-needle-documentation -->
