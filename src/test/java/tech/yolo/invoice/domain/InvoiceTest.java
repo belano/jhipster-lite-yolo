@@ -1,4 +1,4 @@
-package tech.yolo.invoice;
+package tech.yolo.invoice.domain;
 
 import org.junit.jupiter.api.Test;
 import tech.yolo.UnitTest;
@@ -8,7 +8,7 @@ import java.util.List;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
-import static tech.yolo.invoice.InvoicesFixture.*;
+import static tech.yolo.invoice.domain.InvoicesFixture.*;
 
 @UnitTest
 class InvoiceTest {

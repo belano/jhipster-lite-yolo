@@ -1,4 +1,4 @@
-package tech.yolo.invoice;
+package tech.yolo.invoice.domain;
 
 import tech.yolo.error.domain.Assert;
 

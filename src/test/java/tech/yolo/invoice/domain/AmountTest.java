@@ -1,7 +1,8 @@
-package tech.yolo.invoice;
+package tech.yolo.invoice.domain;
 
 import org.junit.jupiter.api.Test;
 import tech.yolo.UnitTest;
+import tech.yolo.invoice.domain.Amount;
 
 import java.math.BigDecimal;
 

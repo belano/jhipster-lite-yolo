@@ -1,4 +1,6 @@
-package tech.yolo.invoice;
+package tech.yolo.invoice.domain;
+
+import tech.yolo.invoice.domain.*;
 
 import java.math.BigDecimal;
 import java.util.List;
