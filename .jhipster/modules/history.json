@@ -68,5 +68,16 @@
       "baseName" : "yolo",
       "endOfLine" : "lf"
     }
+  }, {
+    "module" : "spring-boot-tomcat",
+    "date" : "2022-11-28T18:36:03.126521337Z",
+    "properties" : {
+      "packageName" : "tech.yolo",
+      "projectName" : "Yolo",
+      "indentSize" : 2,
+      "baseName" : "yolo",
+      "endOfLine" : "lf",
+      "serverPort" : 8080
+    }
   } ]
 }
