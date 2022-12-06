@@ -1,8 +1,7 @@
 package tech.yolo.invoice.domain;
 
-import tech.yolo.invoice.domain.*;
-
 import java.math.BigDecimal;
+import java.util.Collection;
 import java.util.List;
 import java.util.UUID;
 
@@ -23,12 +22,19 @@ public class InvoicesFixture {
     return new Line(new Quantity(2), fee(500));
   }
 
-
   public static Fee fee(int val) {
     return new Fee(amount(val), Currency.EURO);
   }
 
   private static Amount amount(int val) {
     return new Amount(new BigDecimal(val));
+  }
+
+  public static InvoiceToCreate invoiceToCreate() {
+    return new InvoiceToCreate(lines());
+  }
+
+  private static Collection<Line> lines() {
+    return List.of(firstLine(), secondLine());
   }
 }
